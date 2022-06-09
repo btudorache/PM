@@ -82,7 +82,7 @@ Intreruperile externe de deplasare (PCINT1, PCINT2) declanseaza deplasarea navei
 In final a iesit un joc distractiv, bine pus la punct de tip arcade. Singurul lucru de care nu sunt foarte mandru este cable management-ul, dar
 din acest punct de vedere nu am foarte multe optiuni.
 
-===Media===
+## Media
 
 ![meteor_dodge_1](/media/meteor_dodge_2.jpeg)
 
